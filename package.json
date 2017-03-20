@@ -1,14 +1,17 @@
 {
-  "name": "stock-check",
-  "version": "1.0.0",
-  "description": "app that fetch stock info using google finance api",
-  "main": "index.js",
+  "name": "getstocks",
+  "version": "1.1.0",
+  "description": "fetch stocks info using google finance api",
+  "bin": {
+    "getstocks": "index.js"
+  },
   "repository": {
     "url": "https://github.com/Carmezim/get-stock",
     "type": "git"
   },
   "license": "MIT",
   "dependencies": {
-    "require": "^2.4.20"
+    "commander": "^2.9.0",
+    "request": "^2.81.0"
   }
 }
