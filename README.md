@@ -1,1 +1,2 @@
-## App to get stock info using Google Finance API
+#### getstocks-cli 
+Node CLI that fetches stocks data using Google Finance API
