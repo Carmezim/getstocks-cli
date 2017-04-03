@@ -1,12 +1,12 @@
 {
   "name": "getstocks",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "fetch stocks info using google finance api",
   "bin": {
     "getstocks": "index.js"
   },
   "repository": {
-    "url": "https://github.com/Carmezim/get-stock",
+    "url": "https://github.com/Carmezim/getstocks-cli",
     "type": "git"
   },
   "license": "MIT",
