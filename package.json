@@ -1,7 +1,7 @@
 {
   "name": "getstocks",
   "version": "1.4.0",
-  "description": "fetch stocks info using google finance api",
+  "description": "fetch stocks data using google finance api",
   "bin": {
     "getstock": "index.js"
   },
