@@ -1,5 +1,7 @@
 ### getstocks-cli 
-Node CLI that fetches stocks data using Google Finance API
+Fetches stocks data using Google Finance API
+
+`npm install -g getstocks`
 
 Usage:
 
