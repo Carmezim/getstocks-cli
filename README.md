@@ -6,3 +6,6 @@ Silly CLI that fetches stocks data using Google Finance API
 Usage:
 
 `$ getstock <stock-tick>`
+
+
+MIT © Adriano Carmezim
